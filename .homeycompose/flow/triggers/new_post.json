@@ -1,0 +1,32 @@
+{
+  "title": {
+    "en": "New post",
+    "nl": "Nieuw artikel"
+  },
+  "tokens": [
+    {
+      "name": "title",
+      "type": "string",
+      "title": {
+        "en": "Title",
+        "nl": "Titel"
+      }
+    },
+    {
+      "name": "author",
+      "type": "string",
+      "title": {
+        "en": "Author",
+        "nl": "Auteur"
+      }
+    },
+    {
+      "name": "url",
+      "type": "string",
+      "title": {
+        "en": "URL",
+        "nl": "URL"
+      }
+    }
+  ]
+}

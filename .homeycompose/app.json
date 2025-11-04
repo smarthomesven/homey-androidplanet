@@ -1,0 +1,31 @@
+{
+  "id": "nl.androidplanet",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Android Planet",
+    "nl": "Android Planet"
+  },
+  "description": {
+    "en": "Discover the power of Android",
+    "nl": "Ontdek de kracht van Android"
+  },
+  "category": [
+    "internet"
+  ],
+  "brandColor": "#28d56a",
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Sven Serlier",
+    "email": "sven@dypodex.com"
+  }
+}
