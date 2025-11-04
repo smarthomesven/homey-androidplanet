@@ -20,6 +20,11 @@
   ],
   "brandColor": "#28d56a",
   "permissions": [],
+  "homeyCommunityTopicId": 144940,
+  "bugs": {
+    "url": "https://github.com/smarthomesven/homey-androidplanet/issues"
+  },
+  "source": "https://github.com/smarthomesven/homey-androidplanet",
   "images": {
     "small": "/assets/images/small.png",
     "large": "/assets/images/large.png",
