@@ -4,5 +4,8 @@
   },
   "1.0.1": {
     "en": "Added URLs"
+  },
+  "1.0.2": {
+    "en": "Update dependencies"
   }
 }
